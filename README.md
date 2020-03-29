@@ -4,8 +4,11 @@ Tribute Page Dedicated to Tom Bilyue for the [FreeCodeCamp](https://www.freecode
 
 ----------------------------------
 [My Blog](https://bucketofcode.com/)
+
 [Twitter](https://twitter.com/bucketofcode)
+
 [LinkedIn](https://www.linkedin.com/in/vibhorthakral/)
+
 [Discord](https://discord.gg/6NvVA4m)
 
 
