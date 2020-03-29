@@ -1,5 +1,5 @@
 # FCC-Tribute-Page-Tom-Bilyeu
-----------------------------------
+
 Tribute Page Dedicated to Tom Bilyue for the [FreeCodeCamp](https://www.freecodecamp.org/) Responsive Web Design Certification
 
 ----------------------------------
